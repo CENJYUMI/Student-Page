@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APExercise9</string>
+    <string name="app_StudentInformation">Student\'s Information</string>
+    <string name="app_StudentName">Name: Mary Claire B. Osongco</string>
+    <string name="app_StudentID">Student ID: S00001</string>
+    <string name="app_StudentCourse">Course: BS HRM</string>
+    <string name="app_YearSem">Year: First Year</string>
+</resources>
